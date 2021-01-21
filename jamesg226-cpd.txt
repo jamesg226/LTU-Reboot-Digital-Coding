@@ -1,14 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Task 1.4.1</title>
-</head>
-<body>
-
-  <!-- YOUR CODE GOES BELOW HERE -->
-  CPD - Continuing Professional Development
+CPD - Continuing Professional Development
 
 
 Date of CPD activity
@@ -32,7 +22,21 @@ What did I find hard?
 
 
 
-  <!-- YOUR CODE GOES ABOVE HERE -->
-  
-</body>
-</html>
+Date of CPD activity
+21/01/2021
+
+CPD activity
+Introduction to Web Development
+
+
+What have I learnt?
+
+I learned about versioning and using git to support his.
+
+
+How did I use this in practice?
+I will use this software to help with my coding.
+
+
+
+What did I find hard?
