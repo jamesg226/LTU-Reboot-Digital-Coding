@@ -1,3 +1,39 @@
 /* Your code goes below here */
 
-/* Your code goes above here */
+/* 
+selector {
+  property: value;
+}
+*/
+p {
+    color: #a9da36;
+    font-size: 24px;
+    border: 1px solid rgb(2, 1, 0);
+  }
+  
+  a {
+    color: green;
+    font-size: 28px;
+    border: 1px solid blue;
+  }
+  
+  ol, ul {
+    color: green;
+    border: 1px solid red;
+  }
+  
+  li {
+    color: purple;
+  }
+  
+  strong {
+      color:#ed0c13;
+      border: 1px solid red;
+  }
+
+  em {
+      color:#c02d35;
+      background:purple;
+      border: 1px solid red;
+  }
+  /* Your code goes above here */
