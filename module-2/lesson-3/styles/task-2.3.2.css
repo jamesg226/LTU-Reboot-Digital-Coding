@@ -1,0 +1,17 @@
+span {
+    color: green;
+  }
+  #example-span {
+    background:black;
+    color:white
+  }
+
+  .span-class {
+      background:red;
+      color:black
+  }
+
+  #grand {
+      background: blue;
+      color: white;
+  }
